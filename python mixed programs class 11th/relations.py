@@ -1,0 +1,10 @@
+# basic relations between 2 numbers.
+A =float(input("enter number: "))
+B =float(input("enter number: "))
+print ("    ")
+print ("A>B",A>B)
+print ("A<B",A<B)
+print ("A>=B",A>=B)
+print ("A<=B",A<=B)
+print ("A==B",A==B)
+print ("A!=B",A!=B)
